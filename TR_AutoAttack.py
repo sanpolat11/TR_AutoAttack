@@ -7,7 +7,7 @@ import os
 
 pName = 'TR_AutoAttack'
 pVersion = '1.0'
-pUrl = 'https://raw.githubusercontent.com/sanpolat11/Phbot-Plugins/master/TR_AutoAttack.py'
+pUrl = 'https://raw.githubusercontent.com/sanpolat11/TR_AutoAttack/refs/heads/main/TR_AutoAttack.py'
 
 # Globals
 character_data = None
